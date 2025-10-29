@@ -3,9 +3,13 @@
     grid-template-columns: auto auto;
 }
 
-.siteName {
-    font-size: 20rem;
+#top-header a {
+    text-decoration: none;
 }
+
+/* .siteName {
+    font-size: 20rem;
+} */
 
 #tools {
     text-align: right;

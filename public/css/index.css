@@ -26,10 +26,12 @@
 /* Upgrades Section */
 #upgrades {
     display: grid;
+    gap: 8px;
 }
 
 #upgrades .card {
     text-align: center;
+    align-items: center;
 }
 
 #upgrades .card .img-background {
