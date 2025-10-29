@@ -35,6 +35,11 @@
     font-weight: bold;
 }
 
+/* Reviews Section */
+#reviews {
+    margin-right: 5px;
+}
+
 /* Upgrades Section */
 #upgrades {
     display: grid;
