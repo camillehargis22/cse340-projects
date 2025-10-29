@@ -1,0 +1,41 @@
+/* Welcome Section */
+#container {
+    position: relative;
+    text-align: center;
+}
+
+#container img {
+    width: 100%;
+}
+
+#floating-info {
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    text-align: left;
+    color: #00DDFF;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+#floating-info button {
+    background-color: #00DDFF;
+    color: #000000;
+    text-align: center;
+}
+
+/* Upgrades Section */
+#upgrades {
+    display: grid;
+}
+
+#upgrades .card {
+    text-align: center;
+}
+
+#upgrades .card .img-background {
+    background-color: #00DDFF;
+}
+
+#upgrades img {
+    max-width: 33%;
+}

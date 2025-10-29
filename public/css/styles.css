@@ -4,3 +4,7 @@
 *:after {
   box-sizing: border-box;
 }
+
+* {
+  font-family: 'Epunda Slab', sans-serif;
+}

@@ -1,0 +1,13 @@
+#top-header {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.siteName {
+    font-size: 20rem;
+}
+
+#tools {
+    text-align: right;
+    vertical-align: top;
+}
