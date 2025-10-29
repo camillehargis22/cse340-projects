@@ -18,7 +18,7 @@
     font-weight: bold;
 }
 
-#floating-info span {
+#floating-info h3 {
     font-weight: bolder;
 }
 
@@ -38,6 +38,7 @@
 /* Reviews Section */
 #reviews {
     margin-right: 5px;
+    order: 2;
 }
 
 /* Upgrades Section */
