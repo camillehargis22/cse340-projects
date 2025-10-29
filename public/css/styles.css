@@ -27,12 +27,6 @@
     padding: 8px;
   }
 
-  #sections-large-view {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 5px;
-  }
-
   #floating-info {
     top: 16px;
     left: 20px;
@@ -40,5 +34,11 @@
 
   #container img {
     width: 50%;
+  }
+
+  #sections-large-view {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px;
   }
 }
