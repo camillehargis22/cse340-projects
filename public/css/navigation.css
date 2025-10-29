@@ -1,12 +1,18 @@
 nav {
     background-color: #000000;
     color: #FFFFFF;
+    padding: .5px;
 }
 
 nav ul {
     list-style-type: none;
     display: flex;
     justify-content: center;
+    padding-left: 0;
+}
+
+nav li {
+    margin: auto;
 }
 
 nav a {

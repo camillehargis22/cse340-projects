@@ -1,15 +1,17 @@
 #top-header {
     display: grid;
     grid-template-columns: auto auto;
+    margin-bottom: 20px;
 }
 
 #top-header a {
     text-decoration: none;
+    color: #000000;
 }
 
-/* .siteName {
-    font-size: 20rem;
-} */
+.siteName {
+    font-size: 30px;
+}
 
 #tools {
     text-align: right;
